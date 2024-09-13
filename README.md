@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheRealJiffy
 - 👀 I’m interested in ... Gaming, Crypto, Tech, Music and Art.
-- 🌱 I’m currently learning ... CSET Cyber Security, ethical hacking, Cloud DevOps, app and web services development .. 
+- 🌱 I’m currently learning ... CSET Cyber Security, Ethical hacking,, app and web services development .. 
 - 💞️ I’m looking to collaborate on ... Music and gaming projects 
 - 📫 How to reach me ... @JiffyMcSpiffy on Twitter
 
