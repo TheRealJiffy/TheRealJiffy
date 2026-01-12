@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Gaming, Technology, Music, and Art.
 - 🌱 I’m currently learning ... Python, reStructuredText, and RegEx. 
 - 💞️ I’m looking to collaborate on ... Music and Gaming projects 
-- 📫 How to reach me ... @JiffyMcSpiffy on Twitter
+
 
 <!---
 TheRealJiffy/TheRealJiffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
